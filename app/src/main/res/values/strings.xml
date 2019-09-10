@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RemoteContol</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="conn_success">succesfully connected!</string>
+    <string name="conn_failure">connection failed!</string>
+    <string name="conn_failure_unsupported">P2P not supported!</string>
+    <string name="busy">wifi not enabled</string>
+
+    <string name="peer_dialog_title">available peers</string>
+    <string name="no_peers">no peers found</string>
+    <string name="unkwn">unknown failure</string>
+</resources>
